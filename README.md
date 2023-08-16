@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Bassell</h1>
-<h3>A Software Engineer from Egypt</h3>
+<h3>A Software Engineer from Cairo, Egypt</h3>
 
 - 🔭 I’m currently working on a **Notion integration**
 
@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://bassell.me/articles](https://bassell.me/articles)
 
-- 💬 Ask me about **ruby, rails, backend, databases**
+- 💬 Ask me about **Ruby, Rails, Backend, Databases, Elasticsearch**
 
 - 📫 How to reach me **ahmedbassell@gmail.com**
 <p align="left">
