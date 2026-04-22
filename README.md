@@ -7,7 +7,7 @@
 
 - 👯 I have worked previously on [Rasayel](rasayel.io) and [Instabug](instabug.com)
 
-- 📝 I write articles on [https://bassell.me/articles](https://bassell.me/articles)
+- 📝 I write articles on [https://bassell.me/articles](https://bassell.me/posts)
 
 - 💬 Ask me about **Ruby, Rails, Backend, Databases, Elasticsearch**
 
