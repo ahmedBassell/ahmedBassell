@@ -15,7 +15,7 @@
 <p align="left">
 </p>
 
-### 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 
 <table>
   <tr>
@@ -33,5 +33,21 @@
     <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"></a></td>
     <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"></a></td>
     <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"></a></td>
+    <td><a href="https://rubyonrails.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" alt="Rails"></a></td>
+    <td><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"></a></td>
+    <td><a href="https://www.ruby-lang.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"></a></td>
+    <td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"></a></td>
+    <td><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"></a></td>
+    <td><a href="https://clickhouse.com/"><img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" width="40" height="40" alt="ClickHouse"></a></td>
+    <td><a href="https://openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"></a></td>
+    <td><a href="https://www.anthropic.com/claude"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="40" height="40" alt="Claude"></a></td>
+    <td><a href="https://linear.app/"><img src="https://cdn.simpleicons.org/linear" width="40" height="40" alt="Linear"></a></td>
   </tr>
 </table>
